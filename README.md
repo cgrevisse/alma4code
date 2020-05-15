@@ -9,7 +9,7 @@ Currently supported languages:
 
 In a code editor window, select a piece of code you want to know more about (from a syntactical point of view speaking). Now, hit `Ctrl+Shift+A` (macOS: `⌘+Shift+A`). If a related concept could be found, your default browser will open and show related learning material in the ALMA repository.
 
-![Demo](img/Demo.mp4)
+![Demo](img/Demo.gif)
 
 ## Requirements
 
