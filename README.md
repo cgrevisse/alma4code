@@ -11,14 +11,18 @@ In a code editor window, select a piece of code you want to know more about (fro
 
 ![Demo](img/Demo.mp4)
 
-## Installation
-
-```bash
-npm install
-vsce package
-code --install-extension alma4code-0.0.1.vsix
-```
-
 ## Requirements
 
-This extension relies on `swift-semantic`. Please install it from [this repository](https://ds-git.fstc.uni.lu/christian.grevisse/swift-semantic).
+This extension relies on `swift-semantic`. Please download the binaries for your platform (macOS or Linux) or build it from source from [this repository](https://github.com/cgrevisse/swift-semantic).
+
+## Installation
+
+You can install this extension from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=cgrevisse.alma4code).
+
+## Contributors
+
+* Christian Grévisse, [@cgrevisse](https://github.com/cgrevisse), University of Luxembourg.
+
+## Bugs, Comments, Suggestions, Contributions?
+
+Feel free to [drop me a line](mailto:christian.grevisse@uni.lu) or [open an issue](https://github.com/cgrevisse/alma4code/issues) for any kind of report or collaboration.

@@ -11,15 +11,32 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://ds-git.fstc.uni.lu/christian.grevisse/alma4code"
+		"url": "https://github.com/cgrevisse/alma4code"
 	},
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"engines": {
 		"vscode": "^1.44.0"
 	},
+	"icon": "img/icon.png",
+	"galleryBanner": {
+		"color": "#FC823F",
+		"theme": "light"
+	},
 	"categories": [
-		"Other"
+		"Programming Languages"
 	],
+	"keywords": [
+		"alma",
+		"ast",
+		"swift",
+		"ontology",
+		"learning"
+	],
+	"bugs": {
+		"url": "https://github.com/cgrevisse/alma4code/issues",
+		"email": "christian.grevisse@uni.lu"
+	},
+	"homepage": "https://coast.uni.lu/alma/",
 	"activationEvents": [
 		"onCommand:alma4code.retrieve"
 	],
